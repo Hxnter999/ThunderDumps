@@ -1,0 +1,17 @@
+
+
+----
+
+### This repository was made as a complementary to *[War-Thunder Reversal Thread on UnknownCheats](https://www.unknowncheats.me/forum/other-mmorpg-and-strategy/85949-war-thunder.html)* along with *[WarThunder-Data](https://github.com/MoleSchizo/WarThunder-Data)* which has War Thunder structures accross multiple game versions. 
+
+- I will be updating this repository as time goes on, the earlier game versions have dumped game executables aswell but I realized its a bit time consuming.
+
+
+
+
+
+## Contributing
+
+Contributions are appreciated. If I ever do miss an update and you have a copy of that game version It would very beneficial if you could contribute by sharing it with us.
+
+In the newer game versions, I keep a small list of offsets. Mainly the useful global values like localplayer, playerlist, gamecontext etc. But if there is a specific value you would like me to keep updated please open up an issue and post it's signature ***OR*** its offset along with the game version so i can make a signature myself.
