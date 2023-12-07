@@ -2,7 +2,7 @@
 
 ----
 
-### This repository was made as a complementary to *[War-Thunder Reversal Thread on UnknownCheats](https://www.unknowncheats.me/forum/other-mmorpg-and-strategy/85949-war-thunder.html)* along with *[WarThunder-Data](https://github.com/MoleSchizo/WarThunder-Data)* which has War Thunder structures accross multiple game versions. 
+### This repository was made as a complementary to *[WarThunder-Data](https://github.com/MoleSchizo/WarThunder-Data)* which has War Thunder structures accross multiple game versions along with *[War-Thunder Reversal Thread on UnknownCheats](https://www.unknowncheats.me/forum/other-mmorpg-and-strategy/85949-war-thunder.html)*. 
 
 - I will be updating this repository as time goes on, the earlier game versions have dumped game executables aswell but I realized its a bit time consuming.
 
