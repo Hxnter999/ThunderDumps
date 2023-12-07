@@ -12,6 +12,6 @@
 
 ## Contributing
 
-Contributions are appreciated. If I ever do miss an update and you have a copy of that game version It would very beneficial if you could contribute by sharing it with us.
+Contributions are appreciated. If I ever do miss an update and you have a copy of that game version It would be very beneficial if you could contribute by sharing it with us.
 
 In the newer game versions, I keep a small list of offsets. Mainly the useful global values like localplayer, playerlist, gamecontext etc. But if there is a specific value you would like me to keep updated please open up an issue and post it's signature ***OR*** its offset along with the game version so i can make a signature myself.
