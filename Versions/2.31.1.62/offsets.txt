@@ -1,5 +1,0 @@
-constexpr uintptr_t pCGame          = 0x4B5AEF0;
-constexpr uintptr_t pLocalPlayer    = 0x4BD3F68;
-constexpr uintptr_t pPlayerList     = 0x4BD3F50;
-constexpr uintptr_t pViewMatrix     = 0x4BC62F0;
-constexpr uintptr_t pCHud           = 0x4B52398;
