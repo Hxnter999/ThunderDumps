@@ -1,0 +1,6 @@
+constexpr uintptr_t PlayerList = 0x4C792C0;
+constexpr uintptr_t CGame = 0x4BFFA00;
+constexpr uintptr_t LocalPlayer = 0x4C792D8;
+constexpr uintptr_t ViewMatrix = 0x4C6B500;
+constexpr uintptr_t CHud = 0x4BF5F78;
+constexpr uintptr_t Projectiles = 0x4C93868;
