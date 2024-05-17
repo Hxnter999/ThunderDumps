@@ -1,0 +1,15 @@
+gamemode_array         = 0x4D477E0
+hud                    = 0x4D96578
+game_context           = 0x4DA0068
+spectated_unit         = 0x4DAE2D8
+local_unit             = 0x4DAE2E0
+current_map            = 0x4DE50E0
+current_mission        = 0x4DE5838
+current_gamemode_index = 0x4DE5EE0
+view_matrix            = 0x4E0C730
+player_list            = 0x4E1AF48
+player_count           = 0x4E1AF58
+local_player           = 0x4E1AF60
+net                    = 0x4E1B7E8
+radar_enable           = 0x4E34D14
+entity_manager         = 0x4E36DB8
